@@ -66,11 +66,6 @@ The relationship between the tables is as follows:
 2. eBooks --> eBook_rental is 1:n
 3. Uses --> eBook_rental is 1:n
 
-1.
-
-2.
-
-3.
 
 # Database Considerations
 - Data Security
